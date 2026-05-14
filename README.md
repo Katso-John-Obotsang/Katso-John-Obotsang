@@ -1,5 +1,66 @@
-# 💫 About Me:
-# Hi there, I'm Katso John Obotsang 👋<br><br>### AI Researcher | Machine Learning Engineer | Quantitative Thinker<br><br>I am passionate about building intelligent systems at the intersection of **Artificial Intelligence, Mathematics, Physics, and Data Science**. My interests span across **Machine Learning, Deep Learning, Quantitative Modeling, Robotics, Scientific Computing, and Emerging Technologies**.<br><br>Currently, I am exploring applications of AI in:<br><br>* Aviation Analytics & Flight Movement Data<br>* Quantitative Research & Predictive Modeling<br>* Robotics & Intelligent Systems<br>* Blockchain & Future Financial Technologies<br>* Scientific and Environmental Data Analysis<br><br>---<br><br>## 🔬 Current Focus<br><br>* Machine Learning & Deep Learning Research<br>* Mathematical Modeling & Quantitative Techniques<br>* AI Applications in Real-World Systems<br>* Data Analysis & Predictive Analytics<br>* Building Scalable Intelligent Solutions<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Languages<br><br>* Python<br>* SQL<br>* MATLAB<br>* R<br><br>### Machine Learning & Data Science<br><br>* Scikit-Learn<br>* TensorFlow<br>* PyTorch<br>* XGBoost<br>* LightGBM<br>* CatBoost<br>* Pandas<br>* NumPy<br><br>### AI & Computer Vision<br><br>* OpenCV<br>* Transformers<br>* Ultralytics YOLO<br>* LangChain<br><br>### Tools & Platforms<br><br>* Git & GitHub<br>* Jupyter Notebook<br>* VS Code<br>* Anaconda<br><br>---<br><br>## 📚 Interests<br><br>* Artificial Intelligence<br>* Quantitative Methods<br>* Scientific Computing<br>* Robotics<br>* Physics<br>* Data-Driven Decision Making<br>* Emerging Technologies<br><br>---<br><br>## 🚀 Vision<br><br>I believe the future belongs to those who can combine **mathematics, computation, and creativity** to solve meaningful real-world problems. My goal is to contribute to the development of intelligent systems that create measurable impact across industries and society.<br><br>---<br><br>## 📫 Connect With Me<br><br>* Email: [katsojohnobotsang@gmail.com](mailto:katsojohnobotsang@gmail.com)<br><br>> “Engineering intelligence through mathematics, code, and curiosity.”<br>
+# Hi there, I'm Katso John Obotsang
+
+### AI Researcher | Machine Learning Engineer | Quantitative Thinker
+
+---
+
+I build intelligent systems at the intersection of **Artificial Intelligence, Mathematics, Physics, and Data Science**.
+
+My work focuses on:
+- Machine Learning & Deep Learning
+- Quantitative Modeling & Scientific Computing
+- Robotics & Intelligent Systems
+- Data-Driven Decision Making
+
+---
+
+## 🔬 Current Focus
+
+- Aviation analytics & flight movement data
+- Predictive modeling & quantitative research
+- Robotics & autonomous systems
+- AI for scientific and environmental applications
+- Emerging technologies (AI × Blockchain × Systems)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python • SQL • MATLAB • R  
+
+**ML / Data Science**
+- Scikit-Learn • TensorFlow • PyTorch  
+- XGBoost • LightGBM • CatBoost  
+- Pandas • NumPy  
+
+**AI / Computer Vision**
+- OpenCV • Transformers • YOLO (Ultralytics)  
+- LangChain  
+
+**Tools**
+- Git & GitHub • Jupyter Notebook  
+- VS Code • Anaconda  
+
+---
+
+## 📚 Interests
+
+Artificial Intelligence • Quantitative Methods • Robotics • Physics • Scientific Computing • Emerging Technologies  
+
+---
+
+## 🚀 Vision
+
+I aim to design intelligent systems that combine **mathematics, computation, and creativity** to solve meaningful real-world problems and deliver measurable impact.
+
+---
+
+## 📫 Connect With Me
+
+- Email: katsojohnobotsang@gmail.com
+
+> “Engineering intelligence through mathematics, code, and curiosity.”
 
 
 ## 🌐 Socials:
