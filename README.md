@@ -4,7 +4,7 @@
 
 ---
 
-I build intelligent systems at the intersection of **Artificial Intelligence, Mathematics, Physics, and Data Science**.
+I build intelligent systems at the intersection of **Artificial Intelligence, Mathematics, Physics, Robotics and Data Science**.
 
 My work focuses on:
 - Machine Learning & Deep Learning
